@@ -1,0 +1,539 @@
+,ISO,NAME_0,ID_1,HASC_1,TYPE_1,ENGTYPE_1,NL_NAME_1,VARNAME_1,date,Region,control
+0,UKR,Ukraine,1,UA.CK,Oblast',Region,,Cherkas'ka Oblast'|Cherkasskaya Oblast'|Cherkassy,2/14/2022,Cherkasy,0
+1,UKR,Ukraine,2,UA.CH,Oblast',Region,,Chernigov|Tschernigow,2/14/2022,Chernihiv,0
+2,UKR,Ukraine,3,UA.CV,Oblast',Region,,Chernivets'ka Oblast'|Chernovitskaya Oblast'|Chernovtsy|Czernowitz|Tschernowzy|Tchernovtsy,2/14/2022,Chernivtsi,0
+3,UKR,Ukraine,4,UA.KR,Autonomous Republic,Autonomous Republic,,Crimée|Criméia|Krim|Krymskaya Respublika|Respublika Krym,2/14/2022,Crimea,1
+4,UKR,Ukraine,5,UA.DP,Oblast',Region,,Dnipropetrovsk|Dniepropietrovsk|Dnjepropetrowsk,2/14/2022,Dnipropetrovs'k,0
+5,UKR,Ukraine,6,UA.DT,Oblast',Region,,Donetsk|Donetskaya Oblast'|Donezk|Stalino,2/14/2022,Donets'k,2
+6,UKR,Ukraine,7,UA.IF,Oblast',Region,,Ivano-Frankovsk|Ivano-Frankovskaya Oblast'|Stanislav,2/14/2022,Ivano-Frankivs'k,0
+7,UKR,Ukraine,8,UA.KK,Oblast',Region,,Charkow|Jarkov|Karkov|Khar'kov,2/14/2022,Kharkiv,0
+8,UKR,Ukraine,9,UA.KS,Oblast',Region,,Cherson|Khersons'ka Oblast',2/14/2022,Kherson,0
+9,UKR,Ukraine,10,UA.KM,Oblast',Region,,Khmelnitsky|Khmelnytskyi|Chmelnizkij|Hmelnicki|Kamenets-Podol'skaya Oblast'|Khmel'nyts'ka Oblast',2/14/2022,Khmel'nyts'kyy,0
+10,UKR,Ukraine,11,UA.KC,Independent City,Independent City,,Kyiv,2/14/2022,Kiev City,0
+11,UKR,Ukraine,12,UA.KV,Oblast',Region,,Kiev Oblast|Kiew|Kijew|Kiiv|Kijev|Kiyev|Kyiv|Kyjiv|Kyyiv|Kyyivs'ka Oblast',2/14/2022,Kiev,0
+12,UKR,Ukraine,13,UA.KH,Oblast',Region,,Kirovograd|Kirovogradskaya Oblast',2/14/2022,Kirovohrad,0
+13,UKR,Ukraine,14,UA.LV,Oblast',Region,,Lemberg|Llvov|L'vov|Lwow|L'vivs'ka Oblast',2/14/2022,L'viv,0
+14,UKR,Ukraine,15,UA.LH,Oblast',Region,,Luhansk|Lugansk|Luhans'ka Oblast'|Voroshilovgrad,2/14/2022,Luhans'k,2
+15,UKR,Ukraine,16,UA.MY,Oblast',Region,,Mykolaiv|Nikolajew|Nikolayev,2/14/2022,Mykolayiv,0
+16,UKR,Ukraine,17,UA.OD,Oblast',Region,,Odesa|Odes'ka Oblast'|Odesskaya Oblast',2/14/2022,Odessa,0
+17,UKR,Ukraine,18,UA.PL,Oblast',Region,,Poltava,2/14/2022,Poltava,0
+18,UKR,Ukraine,19,UA.RV,Oblast',Region,,Rovno|Rivnens'ka Oblast'|Rovenskaya Oblast',2/14/2022,Rivne,0
+19,UKR,Ukraine,20,UA.SC,Autonomous Republic,Autonomous Republic,,Sebastopol,2/14/2022,Sevastopol',1
+20,UKR,Ukraine,21,UA.SM,Oblast',Region,,Sumy,2/14/2022,Sumy,0
+21,UKR,Ukraine,22,UA.TP,Oblast',Region,,Ternopol|Ternopol',2/14/2022,Ternopil',0
+22,UKR,Ukraine,23,UA.ZK,Oblast',Region,,Transcarpathian|Zakarpattia|Ruthenia|Zakarpats'ka Oblast'|Zakarpatskaya Oblast',2/14/2022,Transcarpathia,0
+23,UKR,Ukraine,24,UA.VI,Oblast',Region,,Vinnytsia|Vinnitskaya Oblast'|Vinnyts'ka Oblast|Winniza,2/14/2022,Vinnytsya,0
+24,UKR,Ukraine,25,UA.VO,Oblast',Region,,Volhynia|Volyns'ka Oblast'|Volynskaya Oblast'|Wolynien,2/14/2022,Volyn,0
+25,UKR,Ukraine,26,UA.ZP,Oblast',Region,,Saporoshje|Zaporizhia|Zaporiz'ka Oblast'|Zaporojie|Zaporozhskaya Oblast'|Zaporozh'ye|Zaporožje,2/14/2022,Zaporizhzhya,0
+26,UKR,Ukraine,27,UA.ZT,Oblast',Region,,Zhitomir|Jitomir|Shitomir|Zhitomirskaya Oblast',2/14/2022,Zhytomyr,0
+0,UKR,Ukraine,1,UA.CK,Oblast',Region,,Cherkas'ka Oblast'|Cherkasskaya Oblast'|Cherkassy,2/19/2022,Cherkasy,0
+1,UKR,Ukraine,2,UA.CH,Oblast',Region,,Chernigov|Tschernigow,2/19/2022,Chernihiv,0
+2,UKR,Ukraine,3,UA.CV,Oblast',Region,,Chernivets'ka Oblast'|Chernovitskaya Oblast'|Chernovtsy|Czernowitz|Tschernowzy|Tchernovtsy,2/19/2022,Chernivtsi,0
+3,UKR,Ukraine,4,UA.KR,Autonomous Republic,Autonomous Republic,,Crimée|Criméia|Krim|Krymskaya Respublika|Respublika Krym,2/19/2022,Crimea,1
+4,UKR,Ukraine,5,UA.DP,Oblast',Region,,Dnipropetrovsk|Dniepropietrovsk|Dnjepropetrowsk,2/19/2022,Dnipropetrovs'k,0
+5,UKR,Ukraine,6,UA.DT,Oblast',Region,,Donetsk|Donetskaya Oblast'|Donezk|Stalino,2/19/2022,Donets'k,1
+6,UKR,Ukraine,7,UA.IF,Oblast',Region,,Ivano-Frankovsk|Ivano-Frankovskaya Oblast'|Stanislav,2/19/2022,Ivano-Frankivs'k,0
+7,UKR,Ukraine,8,UA.KK,Oblast',Region,,Charkow|Jarkov|Karkov|Khar'kov,2/19/2022,Kharkiv,2
+8,UKR,Ukraine,9,UA.KS,Oblast',Region,,Cherson|Khersons'ka Oblast',2/19/2022,Kherson,2
+9,UKR,Ukraine,10,UA.KM,Oblast',Region,,Khmelnitsky|Khmelnytskyi|Chmelnizkij|Hmelnicki|Kamenets-Podol'skaya Oblast'|Khmel'nyts'ka Oblast',2/19/2022,Khmel'nyts'kyy,0
+10,UKR,Ukraine,11,UA.KC,Independent City,Independent City,,Kyiv,2/19/2022,Kiev City,0
+11,UKR,Ukraine,12,UA.KV,Oblast',Region,,Kiev Oblast|Kiew|Kijew|Kiiv|Kijev|Kiyev|Kyiv|Kyjiv|Kyyiv|Kyyivs'ka Oblast',2/19/2022,Kiev,0
+12,UKR,Ukraine,13,UA.KH,Oblast',Region,,Kirovograd|Kirovogradskaya Oblast',2/19/2022,Kirovohrad,0
+13,UKR,Ukraine,14,UA.LV,Oblast',Region,,Lemberg|Llvov|L'vov|Lwow|L'vivs'ka Oblast',2/19/2022,L'viv,0
+14,UKR,Ukraine,15,UA.LH,Oblast',Region,,Luhansk|Lugansk|Luhans'ka Oblast'|Voroshilovgrad,2/19/2022,Luhans'k,1
+15,UKR,Ukraine,16,UA.MY,Oblast',Region,,Mykolaiv|Nikolajew|Nikolayev,2/19/2022,Mykolayiv,0
+16,UKR,Ukraine,17,UA.OD,Oblast',Region,,Odesa|Odes'ka Oblast'|Odesskaya Oblast',2/19/2022,Odessa,0
+17,UKR,Ukraine,18,UA.PL,Oblast',Region,,Poltava,2/19/2022,Poltava,0
+18,UKR,Ukraine,19,UA.RV,Oblast',Region,,Rovno|Rivnens'ka Oblast'|Rovenskaya Oblast',2/19/2022,Rivne,0
+19,UKR,Ukraine,20,UA.SC,Autonomous Republic,Autonomous Republic,,Sebastopol,2/19/2022,Sevastopol',1
+20,UKR,Ukraine,21,UA.SM,Oblast',Region,,Sumy,2/19/2022,Sumy,0
+21,UKR,Ukraine,22,UA.TP,Oblast',Region,,Ternopol|Ternopol',2/19/2022,Ternopil',0
+22,UKR,Ukraine,23,UA.ZK,Oblast',Region,,Transcarpathian|Zakarpattia|Ruthenia|Zakarpats'ka Oblast'|Zakarpatskaya Oblast',2/19/2022,Transcarpathia,0
+23,UKR,Ukraine,24,UA.VI,Oblast',Region,,Vinnytsia|Vinnitskaya Oblast'|Vinnyts'ka Oblast|Winniza,2/19/2022,Vinnytsya,0
+24,UKR,Ukraine,25,UA.VO,Oblast',Region,,Volhynia|Volyns'ka Oblast'|Volynskaya Oblast'|Wolynien,2/19/2022,Volyn,0
+25,UKR,Ukraine,26,UA.ZP,Oblast',Region,,Saporoshje|Zaporizhia|Zaporiz'ka Oblast'|Zaporojie|Zaporozhskaya Oblast'|Zaporozh'ye|Zaporožje,2/19/2022,Zaporizhzhya,0
+26,UKR,Ukraine,27,UA.ZT,Oblast',Region,,Zhitomir|Jitomir|Shitomir|Zhitomirskaya Oblast',2/19/2022,Zhytomyr,0
+0,UKR,Ukraine,1,UA.CK,Oblast',Region,,Cherkas'ka Oblast'|Cherkasskaya Oblast'|Cherkassy,2/24/2022,Cherkasy,0
+1,UKR,Ukraine,2,UA.CH,Oblast',Region,,Chernigov|Tschernigow,2/24/2022,Chernihiv,2
+2,UKR,Ukraine,3,UA.CV,Oblast',Region,,Chernivets'ka Oblast'|Chernovitskaya Oblast'|Chernovtsy|Czernowitz|Tschernowzy|Tchernovtsy,2/24/2022,Chernivtsi,0
+3,UKR,Ukraine,4,UA.KR,Autonomous Republic,Autonomous Republic,,Crimée|Criméia|Krim|Krymskaya Respublika|Respublika Krym,2/24/2022,Crimea,1
+4,UKR,Ukraine,5,UA.DP,Oblast',Region,,Dnipropetrovsk|Dniepropietrovsk|Dnjepropetrowsk,2/24/2022,Dnipropetrovs'k,0
+5,UKR,Ukraine,6,UA.DT,Oblast',Region,,Donetsk|Donetskaya Oblast'|Donezk|Stalino,2/24/2022,Donets'k,1
+6,UKR,Ukraine,7,UA.IF,Oblast',Region,,Ivano-Frankovsk|Ivano-Frankovskaya Oblast'|Stanislav,2/24/2022,Ivano-Frankivs'k,0
+7,UKR,Ukraine,8,UA.KK,Oblast',Region,,Charkow|Jarkov|Karkov|Khar'kov,2/24/2022,Kharkiv,1
+8,UKR,Ukraine,9,UA.KS,Oblast',Region,,Cherson|Khersons'ka Oblast',2/24/2022,Kherson,1
+9,UKR,Ukraine,10,UA.KM,Oblast',Region,,Khmelnitsky|Khmelnytskyi|Chmelnizkij|Hmelnicki|Kamenets-Podol'skaya Oblast'|Khmel'nyts'ka Oblast',2/24/2022,Khmel'nyts'kyy,0
+10,UKR,Ukraine,11,UA.KC,Independent City,Independent City,,Kyiv,2/24/2022,Kiev City,0
+11,UKR,Ukraine,12,UA.KV,Oblast',Region,,Kiev Oblast|Kiew|Kijew|Kiiv|Kijev|Kiyev|Kyiv|Kyjiv|Kyyiv|Kyyivs'ka Oblast',2/24/2022,Kiev,0
+12,UKR,Ukraine,13,UA.KH,Oblast',Region,,Kirovograd|Kirovogradskaya Oblast',2/24/2022,Kirovohrad,0
+13,UKR,Ukraine,14,UA.LV,Oblast',Region,,Lemberg|Llvov|L'vov|Lwow|L'vivs'ka Oblast',2/24/2022,L'viv,0
+14,UKR,Ukraine,15,UA.LH,Oblast',Region,,Luhansk|Lugansk|Luhans'ka Oblast'|Voroshilovgrad,2/24/2022,Luhans'k,1
+15,UKR,Ukraine,16,UA.MY,Oblast',Region,,Mykolaiv|Nikolajew|Nikolayev,2/24/2022,Mykolayiv,2
+16,UKR,Ukraine,17,UA.OD,Oblast',Region,,Odesa|Odes'ka Oblast'|Odesskaya Oblast',2/24/2022,Odessa,0
+17,UKR,Ukraine,18,UA.PL,Oblast',Region,,Poltava,2/24/2022,Poltava,0
+18,UKR,Ukraine,19,UA.RV,Oblast',Region,,Rovno|Rivnens'ka Oblast'|Rovenskaya Oblast',2/24/2022,Rivne,0
+19,UKR,Ukraine,20,UA.SC,Autonomous Republic,Autonomous Republic,,Sebastopol,2/24/2022,Sevastopol',1
+20,UKR,Ukraine,21,UA.SM,Oblast',Region,,Sumy,2/24/2022,Sumy,2
+21,UKR,Ukraine,22,UA.TP,Oblast',Region,,Ternopol|Ternopol',2/24/2022,Ternopil',0
+22,UKR,Ukraine,23,UA.ZK,Oblast',Region,,Transcarpathian|Zakarpattia|Ruthenia|Zakarpats'ka Oblast'|Zakarpatskaya Oblast',2/24/2022,Transcarpathia,0
+23,UKR,Ukraine,24,UA.VI,Oblast',Region,,Vinnytsia|Vinnitskaya Oblast'|Vinnyts'ka Oblast|Winniza,2/24/2022,Vinnytsya,0
+24,UKR,Ukraine,25,UA.VO,Oblast',Region,,Volhynia|Volyns'ka Oblast'|Volynskaya Oblast'|Wolynien,2/24/2022,Volyn,0
+25,UKR,Ukraine,26,UA.ZP,Oblast',Region,,Saporoshje|Zaporizhia|Zaporiz'ka Oblast'|Zaporojie|Zaporozhskaya Oblast'|Zaporozh'ye|Zaporožje,2/24/2022,Zaporizhzhya,2
+26,UKR,Ukraine,27,UA.ZT,Oblast',Region,,Zhitomir|Jitomir|Shitomir|Zhitomirskaya Oblast',2/24/2022,Zhytomyr,0
+0,UKR,Ukraine,1,UA.CK,Oblast',Region,,Cherkas'ka Oblast'|Cherkasskaya Oblast'|Cherkassy,2/28/2022,Cherkasy,0
+1,UKR,Ukraine,2,UA.CH,Oblast',Region,,Chernigov|Tschernigow,2/28/2022,Chernihiv,1
+2,UKR,Ukraine,3,UA.CV,Oblast',Region,,Chernivets'ka Oblast'|Chernovitskaya Oblast'|Chernovtsy|Czernowitz|Tschernowzy|Tchernovtsy,2/28/2022,Chernivtsi,0
+3,UKR,Ukraine,4,UA.KR,Autonomous Republic,Autonomous Republic,,Crimée|Criméia|Krim|Krymskaya Respublika|Respublika Krym,2/28/2022,Crimea,1
+4,UKR,Ukraine,5,UA.DP,Oblast',Region,,Dnipropetrovsk|Dniepropietrovsk|Dnjepropetrowsk,2/28/2022,Dnipropetrovs'k,0
+5,UKR,Ukraine,6,UA.DT,Oblast',Region,,Donetsk|Donetskaya Oblast'|Donezk|Stalino,2/28/2022,Donets'k,1
+6,UKR,Ukraine,7,UA.IF,Oblast',Region,,Ivano-Frankovsk|Ivano-Frankovskaya Oblast'|Stanislav,2/28/2022,Ivano-Frankivs'k,0
+7,UKR,Ukraine,8,UA.KK,Oblast',Region,,Charkow|Jarkov|Karkov|Khar'kov,2/28/2022,Kharkiv,1
+8,UKR,Ukraine,9,UA.KS,Oblast',Region,,Cherson|Khersons'ka Oblast',2/28/2022,Kherson,1
+9,UKR,Ukraine,10,UA.KM,Oblast',Region,,Khmelnitsky|Khmelnytskyi|Chmelnizkij|Hmelnicki|Kamenets-Podol'skaya Oblast'|Khmel'nyts'ka Oblast',2/28/2022,Khmel'nyts'kyy,0
+10,UKR,Ukraine,11,UA.KC,Independent City,Independent City,,Kyiv,2/28/2022,Kiev City,0
+11,UKR,Ukraine,12,UA.KV,Oblast',Region,,Kiev Oblast|Kiew|Kijew|Kiiv|Kijev|Kiyev|Kyiv|Kyjiv|Kyyiv|Kyyivs'ka Oblast',2/28/2022,Kiev,2
+12,UKR,Ukraine,13,UA.KH,Oblast',Region,,Kirovograd|Kirovogradskaya Oblast',2/28/2022,Kirovohrad,0
+13,UKR,Ukraine,14,UA.LV,Oblast',Region,,Lemberg|Llvov|L'vov|Lwow|L'vivs'ka Oblast',2/28/2022,L'viv,0
+14,UKR,Ukraine,15,UA.LH,Oblast',Region,,Luhansk|Lugansk|Luhans'ka Oblast'|Voroshilovgrad,2/28/2022,Luhans'k,1
+15,UKR,Ukraine,16,UA.MY,Oblast',Region,,Mykolaiv|Nikolajew|Nikolayev,2/28/2022,Mykolayiv,0
+16,UKR,Ukraine,17,UA.OD,Oblast',Region,,Odesa|Odes'ka Oblast'|Odesskaya Oblast',2/28/2022,Odessa,0
+17,UKR,Ukraine,18,UA.PL,Oblast',Region,,Poltava,2/28/2022,Poltava,0
+18,UKR,Ukraine,19,UA.RV,Oblast',Region,,Rovno|Rivnens'ka Oblast'|Rovenskaya Oblast',2/28/2022,Rivne,0
+19,UKR,Ukraine,20,UA.SC,Autonomous Republic,Autonomous Republic,,Sebastopol,2/28/2022,Sevastopol',1
+20,UKR,Ukraine,21,UA.SM,Oblast',Region,,Sumy,2/28/2022,Sumy,2
+21,UKR,Ukraine,22,UA.TP,Oblast',Region,,Ternopol|Ternopol',2/28/2022,Ternopil',0
+22,UKR,Ukraine,23,UA.ZK,Oblast',Region,,Transcarpathian|Zakarpattia|Ruthenia|Zakarpats'ka Oblast'|Zakarpatskaya Oblast',2/28/2022,Transcarpathia,0
+23,UKR,Ukraine,24,UA.VI,Oblast',Region,,Vinnytsia|Vinnitskaya Oblast'|Vinnyts'ka Oblast|Winniza,2/28/2022,Vinnytsya,0
+24,UKR,Ukraine,25,UA.VO,Oblast',Region,,Volhynia|Volyns'ka Oblast'|Volynskaya Oblast'|Wolynien,2/28/2022,Volyn,0
+25,UKR,Ukraine,26,UA.ZP,Oblast',Region,,Saporoshje|Zaporizhia|Zaporiz'ka Oblast'|Zaporojie|Zaporozhskaya Oblast'|Zaporozh'ye|Zaporožje,2/28/2022,Zaporizhzhya,1
+26,UKR,Ukraine,27,UA.ZT,Oblast',Region,,Zhitomir|Jitomir|Shitomir|Zhitomirskaya Oblast',2/28/2022,Zhytomyr,2
+0,UKR,Ukraine,1,UA.CK,Oblast',Region,,Cherkas'ka Oblast'|Cherkasskaya Oblast'|Cherkassy,3/5/2022,Cherkasy,0
+1,UKR,Ukraine,2,UA.CH,Oblast',Region,,Chernigov|Tschernigow,3/5/2022,Chernihiv,1
+2,UKR,Ukraine,3,UA.CV,Oblast',Region,,Chernivets'ka Oblast'|Chernovitskaya Oblast'|Chernovtsy|Czernowitz|Tschernowzy|Tchernovtsy,3/5/2022,Chernivtsi,0
+3,UKR,Ukraine,4,UA.KR,Autonomous Republic,Autonomous Republic,,Crimée|Criméia|Krim|Krymskaya Respublika|Respublika Krym,3/5/2022,Crimea,1
+4,UKR,Ukraine,5,UA.DP,Oblast',Region,,Dnipropetrovsk|Dniepropietrovsk|Dnjepropetrowsk,3/5/2022,Dnipropetrovs'k,0
+5,UKR,Ukraine,6,UA.DT,Oblast',Region,,Donetsk|Donetskaya Oblast'|Donezk|Stalino,3/5/2022,Donets'k,1
+6,UKR,Ukraine,7,UA.IF,Oblast',Region,,Ivano-Frankovsk|Ivano-Frankovskaya Oblast'|Stanislav,3/5/2022,Ivano-Frankivs'k,0
+7,UKR,Ukraine,8,UA.KK,Oblast',Region,,Charkow|Jarkov|Karkov|Khar'kov,3/5/2022,Kharkiv,1
+8,UKR,Ukraine,9,UA.KS,Oblast',Region,,Cherson|Khersons'ka Oblast',3/5/2022,Kherson,1
+9,UKR,Ukraine,10,UA.KM,Oblast',Region,,Khmelnitsky|Khmelnytskyi|Chmelnizkij|Hmelnicki|Kamenets-Podol'skaya Oblast'|Khmel'nyts'ka Oblast',3/5/2022,Khmel'nyts'kyy,0
+10,UKR,Ukraine,11,UA.KC,Independent City,Independent City,,Kyiv,3/5/2022,Kiev City,0
+11,UKR,Ukraine,12,UA.KV,Oblast',Region,,Kiev Oblast|Kiew|Kijew|Kiiv|Kijev|Kiyev|Kyiv|Kyjiv|Kyyiv|Kyyivs'ka Oblast',3/5/2022,Kiev,2
+12,UKR,Ukraine,13,UA.KH,Oblast',Region,,Kirovograd|Kirovogradskaya Oblast',3/5/2022,Kirovohrad,0
+13,UKR,Ukraine,14,UA.LV,Oblast',Region,,Lemberg|Llvov|L'vov|Lwow|L'vivs'ka Oblast',3/5/2022,L'viv,0
+14,UKR,Ukraine,15,UA.LH,Oblast',Region,,Luhansk|Lugansk|Luhans'ka Oblast'|Voroshilovgrad,3/5/2022,Luhans'k,1
+15,UKR,Ukraine,16,UA.MY,Oblast',Region,,Mykolaiv|Nikolajew|Nikolayev,3/5/2022,Mykolayiv,0
+16,UKR,Ukraine,17,UA.OD,Oblast',Region,,Odesa|Odes'ka Oblast'|Odesskaya Oblast',3/5/2022,Odessa,0
+17,UKR,Ukraine,18,UA.PL,Oblast',Region,,Poltava,3/5/2022,Poltava,0
+18,UKR,Ukraine,19,UA.RV,Oblast',Region,,Rovno|Rivnens'ka Oblast'|Rovenskaya Oblast',3/5/2022,Rivne,0
+19,UKR,Ukraine,20,UA.SC,Autonomous Republic,Autonomous Republic,,Sebastopol,3/5/2022,Sevastopol',1
+20,UKR,Ukraine,21,UA.SM,Oblast',Region,,Sumy,3/5/2022,Sumy,2
+21,UKR,Ukraine,22,UA.TP,Oblast',Region,,Ternopol|Ternopol',3/5/2022,Ternopil',0
+22,UKR,Ukraine,23,UA.ZK,Oblast',Region,,Transcarpathian|Zakarpattia|Ruthenia|Zakarpats'ka Oblast'|Zakarpatskaya Oblast',3/5/2022,Transcarpathia,0
+23,UKR,Ukraine,24,UA.VI,Oblast',Region,,Vinnytsia|Vinnitskaya Oblast'|Vinnyts'ka Oblast|Winniza,3/5/2022,Vinnytsya,0
+24,UKR,Ukraine,25,UA.VO,Oblast',Region,,Volhynia|Volyns'ka Oblast'|Volynskaya Oblast'|Wolynien,3/5/2022,Volyn,0
+25,UKR,Ukraine,26,UA.ZP,Oblast',Region,,Saporoshje|Zaporizhia|Zaporiz'ka Oblast'|Zaporojie|Zaporozhskaya Oblast'|Zaporozh'ye|Zaporožje,3/5/2022,Zaporizhzhya,1
+26,UKR,Ukraine,27,UA.ZT,Oblast',Region,,Zhitomir|Jitomir|Shitomir|Zhitomirskaya Oblast',3/5/2022,Zhytomyr,2
+0,UKR,Ukraine,1,UA.CK,Oblast',Region,,Cherkas'ka Oblast'|Cherkasskaya Oblast'|Cherkassy,3/10/2022,Cherkasy,0
+1,UKR,Ukraine,2,UA.CH,Oblast',Region,,Chernigov|Tschernigow,3/10/2022,Chernihiv,2
+2,UKR,Ukraine,3,UA.CV,Oblast',Region,,Chernivets'ka Oblast'|Chernovitskaya Oblast'|Chernovtsy|Czernowitz|Tschernowzy|Tchernovtsy,3/10/2022,Chernivtsi,0
+3,UKR,Ukraine,4,UA.KR,Autonomous Republic,Autonomous Republic,,Crimée|Criméia|Krim|Krymskaya Respublika|Respublika Krym,3/10/2022,Crimea,1
+4,UKR,Ukraine,5,UA.DP,Oblast',Region,,Dnipropetrovsk|Dniepropietrovsk|Dnjepropetrowsk,3/10/2022,Dnipropetrovs'k,0
+5,UKR,Ukraine,6,UA.DT,Oblast',Region,,Donetsk|Donetskaya Oblast'|Donezk|Stalino,3/10/2022,Donets'k,1
+6,UKR,Ukraine,7,UA.IF,Oblast',Region,,Ivano-Frankovsk|Ivano-Frankovskaya Oblast'|Stanislav,3/10/2022,Ivano-Frankivs'k,0
+7,UKR,Ukraine,8,UA.KK,Oblast',Region,,Charkow|Jarkov|Karkov|Khar'kov,3/10/2022,Kharkiv,1
+8,UKR,Ukraine,9,UA.KS,Oblast',Region,,Cherson|Khersons'ka Oblast',3/10/2022,Kherson,1
+9,UKR,Ukraine,10,UA.KM,Oblast',Region,,Khmelnitsky|Khmelnytskyi|Chmelnizkij|Hmelnicki|Kamenets-Podol'skaya Oblast'|Khmel'nyts'ka Oblast',3/10/2022,Khmel'nyts'kyy,0
+10,UKR,Ukraine,11,UA.KC,Independent City,Independent City,,Kyiv,3/10/2022,Kiev City,2
+11,UKR,Ukraine,12,UA.KV,Oblast',Region,,Kiev Oblast|Kiew|Kijew|Kiiv|Kijev|Kiyev|Kyiv|Kyjiv|Kyyiv|Kyyivs'ka Oblast',3/10/2022,Kiev,2
+12,UKR,Ukraine,13,UA.KH,Oblast',Region,,Kirovograd|Kirovogradskaya Oblast',3/10/2022,Kirovohrad,0
+13,UKR,Ukraine,14,UA.LV,Oblast',Region,,Lemberg|Llvov|L'vov|Lwow|L'vivs'ka Oblast',3/10/2022,L'viv,0
+14,UKR,Ukraine,15,UA.LH,Oblast',Region,,Luhansk|Lugansk|Luhans'ka Oblast'|Voroshilovgrad,3/10/2022,Luhans'k,1
+15,UKR,Ukraine,16,UA.MY,Oblast',Region,,Mykolaiv|Nikolajew|Nikolayev,3/10/2022,Mykolayiv,1
+16,UKR,Ukraine,17,UA.OD,Oblast',Region,,Odesa|Odes'ka Oblast'|Odesskaya Oblast',3/10/2022,Odessa,2
+17,UKR,Ukraine,18,UA.PL,Oblast',Region,,Poltava,3/10/2022,Poltava,0
+18,UKR,Ukraine,19,UA.RV,Oblast',Region,,Rovno|Rivnens'ka Oblast'|Rovenskaya Oblast',3/10/2022,Rivne,0
+19,UKR,Ukraine,20,UA.SC,Autonomous Republic,Autonomous Republic,,Sebastopol,3/10/2022,Sevastopol',1
+20,UKR,Ukraine,21,UA.SM,Oblast',Region,,Sumy,3/10/2022,Sumy,1
+21,UKR,Ukraine,22,UA.TP,Oblast',Region,,Ternopol|Ternopol',3/10/2022,Ternopil',0
+22,UKR,Ukraine,23,UA.ZK,Oblast',Region,,Transcarpathian|Zakarpattia|Ruthenia|Zakarpats'ka Oblast'|Zakarpatskaya Oblast',3/10/2022,Transcarpathia,0
+23,UKR,Ukraine,24,UA.VI,Oblast',Region,,Vinnytsia|Vinnitskaya Oblast'|Vinnyts'ka Oblast|Winniza,3/10/2022,Vinnytsya,0
+24,UKR,Ukraine,25,UA.VO,Oblast',Region,,Volhynia|Volyns'ka Oblast'|Volynskaya Oblast'|Wolynien,3/10/2022,Volyn,0
+25,UKR,Ukraine,26,UA.ZP,Oblast',Region,,Saporoshje|Zaporizhia|Zaporiz'ka Oblast'|Zaporojie|Zaporozhskaya Oblast'|Zaporozh'ye|Zaporožje,3/10/2022,Zaporizhzhya,1
+26,UKR,Ukraine,27,UA.ZT,Oblast',Region,,Zhitomir|Jitomir|Shitomir|Zhitomirskaya Oblast',3/10/2022,Zhytomyr,1
+0,UKR,Ukraine,1,UA.CK,Oblast',Region,,Cherkas'ka Oblast'|Cherkasskaya Oblast'|Cherkassy,3/15/2022,Cherkasy,0
+1,UKR,Ukraine,2,UA.CH,Oblast',Region,,Chernigov|Tschernigow,3/15/2022,Chernihiv,1
+2,UKR,Ukraine,3,UA.CV,Oblast',Region,,Chernivets'ka Oblast'|Chernovitskaya Oblast'|Chernovtsy|Czernowitz|Tschernowzy|Tchernovtsy,3/15/2022,Chernivtsi,0
+3,UKR,Ukraine,4,UA.KR,Autonomous Republic,Autonomous Republic,,Crimée|Criméia|Krim|Krymskaya Respublika|Respublika Krym,3/15/2022,Crimea,1
+4,UKR,Ukraine,5,UA.DP,Oblast',Region,,Dnipropetrovsk|Dniepropietrovsk|Dnjepropetrowsk,3/15/2022,Dnipropetrovs'k,0
+5,UKR,Ukraine,6,UA.DT,Oblast',Region,,Donetsk|Donetskaya Oblast'|Donezk|Stalino,3/15/2022,Donets'k,1
+6,UKR,Ukraine,7,UA.IF,Oblast',Region,,Ivano-Frankovsk|Ivano-Frankovskaya Oblast'|Stanislav,3/15/2022,Ivano-Frankivs'k,0
+7,UKR,Ukraine,8,UA.KK,Oblast',Region,,Charkow|Jarkov|Karkov|Khar'kov,3/15/2022,Kharkiv,1
+8,UKR,Ukraine,9,UA.KS,Oblast',Region,,Cherson|Khersons'ka Oblast',3/15/2022,Kherson,1
+9,UKR,Ukraine,10,UA.KM,Oblast',Region,,Khmelnitsky|Khmelnytskyi|Chmelnizkij|Hmelnicki|Kamenets-Podol'skaya Oblast'|Khmel'nyts'ka Oblast',3/15/2022,Khmel'nyts'kyy,0
+10,UKR,Ukraine,11,UA.KC,Independent City,Independent City,,Kyiv,3/15/2022,Kiev City,2
+11,UKR,Ukraine,12,UA.KV,Oblast',Region,,Kiev Oblast|Kiew|Kijew|Kiiv|Kijev|Kiyev|Kyiv|Kyjiv|Kyyiv|Kyyivs'ka Oblast',3/15/2022,Kiev,1
+12,UKR,Ukraine,13,UA.KH,Oblast',Region,,Kirovograd|Kirovogradskaya Oblast',3/15/2022,Kirovohrad,0
+13,UKR,Ukraine,14,UA.LV,Oblast',Region,,Lemberg|Llvov|L'vov|Lwow|L'vivs'ka Oblast',3/15/2022,L'viv,0
+14,UKR,Ukraine,15,UA.LH,Oblast',Region,,Luhansk|Lugansk|Luhans'ka Oblast'|Voroshilovgrad,3/15/2022,Luhans'k,1
+15,UKR,Ukraine,16,UA.MY,Oblast',Region,,Mykolaiv|Nikolajew|Nikolayev,3/15/2022,Mykolayiv,1
+16,UKR,Ukraine,17,UA.OD,Oblast',Region,,Odesa|Odes'ka Oblast'|Odesskaya Oblast',3/15/2022,Odessa,2
+17,UKR,Ukraine,18,UA.PL,Oblast',Region,,Poltava,3/15/2022,Poltava,0
+18,UKR,Ukraine,19,UA.RV,Oblast',Region,,Rovno|Rivnens'ka Oblast'|Rovenskaya Oblast',3/15/2022,Rivne,0
+19,UKR,Ukraine,20,UA.SC,Autonomous Republic,Autonomous Republic,,Sebastopol,3/15/2022,Sevastopol',1
+20,UKR,Ukraine,21,UA.SM,Oblast',Region,,Sumy,3/15/2022,Sumy,1
+21,UKR,Ukraine,22,UA.TP,Oblast',Region,,Ternopol|Ternopol',3/15/2022,Ternopil',0
+22,UKR,Ukraine,23,UA.ZK,Oblast',Region,,Transcarpathian|Zakarpattia|Ruthenia|Zakarpats'ka Oblast'|Zakarpatskaya Oblast',3/15/2022,Transcarpathia,0
+23,UKR,Ukraine,24,UA.VI,Oblast',Region,,Vinnytsia|Vinnitskaya Oblast'|Vinnyts'ka Oblast|Winniza,3/15/2022,Vinnytsya,0
+24,UKR,Ukraine,25,UA.VO,Oblast',Region,,Volhynia|Volyns'ka Oblast'|Volynskaya Oblast'|Wolynien,3/15/2022,Volyn,0
+25,UKR,Ukraine,26,UA.ZP,Oblast',Region,,Saporoshje|Zaporizhia|Zaporiz'ka Oblast'|Zaporojie|Zaporozhskaya Oblast'|Zaporozh'ye|Zaporožje,3/15/2022,Zaporizhzhya,1
+26,UKR,Ukraine,27,UA.ZT,Oblast',Region,,Zhitomir|Jitomir|Shitomir|Zhitomirskaya Oblast',3/15/2022,Zhytomyr,1
+0,UKR,Ukraine,1,UA.CK,Oblast',Region,,Cherkas'ka Oblast'|Cherkasskaya Oblast'|Cherkassy,3/20/2022,Cherkasy,0
+1,UKR,Ukraine,2,UA.CH,Oblast',Region,,Chernigov|Tschernigow,3/20/2022,Chernihiv,1
+2,UKR,Ukraine,3,UA.CV,Oblast',Region,,Chernivets'ka Oblast'|Chernovitskaya Oblast'|Chernovtsy|Czernowitz|Tschernowzy|Tchernovtsy,3/20/2022,Chernivtsi,0
+3,UKR,Ukraine,4,UA.KR,Autonomous Republic,Autonomous Republic,,Crimée|Criméia|Krim|Krymskaya Respublika|Respublika Krym,3/20/2022,Crimea,1
+4,UKR,Ukraine,5,UA.DP,Oblast',Region,,Dnipropetrovsk|Dniepropietrovsk|Dnjepropetrowsk,3/20/2022,Dnipropetrovs'k,0
+5,UKR,Ukraine,6,UA.DT,Oblast',Region,,Donetsk|Donetskaya Oblast'|Donezk|Stalino,3/20/2022,Donets'k,1
+6,UKR,Ukraine,7,UA.IF,Oblast',Region,,Ivano-Frankovsk|Ivano-Frankovskaya Oblast'|Stanislav,3/20/2022,Ivano-Frankivs'k,0
+7,UKR,Ukraine,8,UA.KK,Oblast',Region,,Charkow|Jarkov|Karkov|Khar'kov,3/20/2022,Kharkiv,1
+8,UKR,Ukraine,9,UA.KS,Oblast',Region,,Cherson|Khersons'ka Oblast',3/20/2022,Kherson,1
+9,UKR,Ukraine,10,UA.KM,Oblast',Region,,Khmelnitsky|Khmelnytskyi|Chmelnizkij|Hmelnicki|Kamenets-Podol'skaya Oblast'|Khmel'nyts'ka Oblast',3/20/2022,Khmel'nyts'kyy,0
+10,UKR,Ukraine,11,UA.KC,Independent City,Independent City,,Kyiv,3/20/2022,Kiev City,2
+11,UKR,Ukraine,12,UA.KV,Oblast',Region,,Kiev Oblast|Kiew|Kijew|Kiiv|Kijev|Kiyev|Kyiv|Kyjiv|Kyyiv|Kyyivs'ka Oblast',3/20/2022,Kiev,2
+12,UKR,Ukraine,13,UA.KH,Oblast',Region,,Kirovograd|Kirovogradskaya Oblast',3/20/2022,Kirovohrad,0
+13,UKR,Ukraine,14,UA.LV,Oblast',Region,,Lemberg|Llvov|L'vov|Lwow|L'vivs'ka Oblast',3/20/2022,L'viv,0
+14,UKR,Ukraine,15,UA.LH,Oblast',Region,,Luhansk|Lugansk|Luhans'ka Oblast'|Voroshilovgrad,3/20/2022,Luhans'k,1
+15,UKR,Ukraine,16,UA.MY,Oblast',Region,,Mykolaiv|Nikolajew|Nikolayev,3/20/2022,Mykolayiv,1
+16,UKR,Ukraine,17,UA.OD,Oblast',Region,,Odesa|Odes'ka Oblast'|Odesskaya Oblast',3/20/2022,Odessa,0
+17,UKR,Ukraine,18,UA.PL,Oblast',Region,,Poltava,3/20/2022,Poltava,0
+18,UKR,Ukraine,19,UA.RV,Oblast',Region,,Rovno|Rivnens'ka Oblast'|Rovenskaya Oblast',3/20/2022,Rivne,0
+19,UKR,Ukraine,20,UA.SC,Autonomous Republic,Autonomous Republic,,Sebastopol,3/20/2022,Sevastopol',1
+20,UKR,Ukraine,21,UA.SM,Oblast',Region,,Sumy,3/20/2022,Sumy,1
+21,UKR,Ukraine,22,UA.TP,Oblast',Region,,Ternopol|Ternopol',3/20/2022,Ternopil',0
+22,UKR,Ukraine,23,UA.ZK,Oblast',Region,,Transcarpathian|Zakarpattia|Ruthenia|Zakarpats'ka Oblast'|Zakarpatskaya Oblast',3/20/2022,Transcarpathia,0
+23,UKR,Ukraine,24,UA.VI,Oblast',Region,,Vinnytsia|Vinnitskaya Oblast'|Vinnyts'ka Oblast|Winniza,3/20/2022,Vinnytsya,0
+24,UKR,Ukraine,25,UA.VO,Oblast',Region,,Volhynia|Volyns'ka Oblast'|Volynskaya Oblast'|Wolynien,3/20/2022,Volyn,0
+25,UKR,Ukraine,26,UA.ZP,Oblast',Region,,Saporoshje|Zaporizhia|Zaporiz'ka Oblast'|Zaporojie|Zaporozhskaya Oblast'|Zaporozh'ye|Zaporožje,3/20/2022,Zaporizhzhya,1
+26,UKR,Ukraine,27,UA.ZT,Oblast',Region,,Zhitomir|Jitomir|Shitomir|Zhitomirskaya Oblast',3/20/2022,Zhytomyr,2
+0,UKR,Ukraine,1,UA.CK,Oblast',Region,,Cherkas'ka Oblast'|Cherkasskaya Oblast'|Cherkassy,3/25/2022,Cherkasy,0
+1,UKR,Ukraine,2,UA.CH,Oblast',Region,,Chernigov|Tschernigow,3/25/2022,Chernihiv,2
+2,UKR,Ukraine,3,UA.CV,Oblast',Region,,Chernivets'ka Oblast'|Chernovitskaya Oblast'|Chernovtsy|Czernowitz|Tschernowzy|Tchernovtsy,3/25/2022,Chernivtsi,0
+3,UKR,Ukraine,4,UA.KR,Autonomous Republic,Autonomous Republic,,Crimée|Criméia|Krim|Krymskaya Respublika|Respublika Krym,3/25/2022,Crimea,1
+4,UKR,Ukraine,5,UA.DP,Oblast',Region,,Dnipropetrovsk|Dniepropietrovsk|Dnjepropetrowsk,3/25/2022,Dnipropetrovs'k,0
+5,UKR,Ukraine,6,UA.DT,Oblast',Region,,Donetsk|Donetskaya Oblast'|Donezk|Stalino,3/25/2022,Donets'k,1
+6,UKR,Ukraine,7,UA.IF,Oblast',Region,,Ivano-Frankovsk|Ivano-Frankovskaya Oblast'|Stanislav,3/25/2022,Ivano-Frankivs'k,0
+7,UKR,Ukraine,8,UA.KK,Oblast',Region,,Charkow|Jarkov|Karkov|Khar'kov,3/25/2022,Kharkiv,1
+8,UKR,Ukraine,9,UA.KS,Oblast',Region,,Cherson|Khersons'ka Oblast',3/25/2022,Kherson,1
+9,UKR,Ukraine,10,UA.KM,Oblast',Region,,Khmelnitsky|Khmelnytskyi|Chmelnizkij|Hmelnicki|Kamenets-Podol'skaya Oblast'|Khmel'nyts'ka Oblast',3/25/2022,Khmel'nyts'kyy,0
+10,UKR,Ukraine,11,UA.KC,Independent City,Independent City,,Kyiv,3/25/2022,Kiev City,2
+11,UKR,Ukraine,12,UA.KV,Oblast',Region,,Kiev Oblast|Kiew|Kijew|Kiiv|Kijev|Kiyev|Kyiv|Kyjiv|Kyyiv|Kyyivs'ka Oblast',3/25/2022,Kiev,2
+12,UKR,Ukraine,13,UA.KH,Oblast',Region,,Kirovograd|Kirovogradskaya Oblast',3/25/2022,Kirovohrad,0
+13,UKR,Ukraine,14,UA.LV,Oblast',Region,,Lemberg|Llvov|L'vov|Lwow|L'vivs'ka Oblast',3/25/2022,L'viv,0
+14,UKR,Ukraine,15,UA.LH,Oblast',Region,,Luhansk|Lugansk|Luhans'ka Oblast'|Voroshilovgrad,3/25/2022,Luhans'k,1
+15,UKR,Ukraine,16,UA.MY,Oblast',Region,,Mykolaiv|Nikolajew|Nikolayev,3/25/2022,Mykolayiv,1
+16,UKR,Ukraine,17,UA.OD,Oblast',Region,,Odesa|Odes'ka Oblast'|Odesskaya Oblast',3/25/2022,Odessa,0
+17,UKR,Ukraine,18,UA.PL,Oblast',Region,,Poltava,3/25/2022,Poltava,0
+18,UKR,Ukraine,19,UA.RV,Oblast',Region,,Rovno|Rivnens'ka Oblast'|Rovenskaya Oblast',3/25/2022,Rivne,0
+19,UKR,Ukraine,20,UA.SC,Autonomous Republic,Autonomous Republic,,Sebastopol,3/25/2022,Sevastopol',1
+20,UKR,Ukraine,21,UA.SM,Oblast',Region,,Sumy,3/25/2022,Sumy,2
+21,UKR,Ukraine,22,UA.TP,Oblast',Region,,Ternopol|Ternopol',3/25/2022,Ternopil',0
+22,UKR,Ukraine,23,UA.ZK,Oblast',Region,,Transcarpathian|Zakarpattia|Ruthenia|Zakarpats'ka Oblast'|Zakarpatskaya Oblast',3/25/2022,Transcarpathia,0
+23,UKR,Ukraine,24,UA.VI,Oblast',Region,,Vinnytsia|Vinnitskaya Oblast'|Vinnyts'ka Oblast|Winniza,3/25/2022,Vinnytsya,0
+24,UKR,Ukraine,25,UA.VO,Oblast',Region,,Volhynia|Volyns'ka Oblast'|Volynskaya Oblast'|Wolynien,3/25/2022,Volyn,0
+25,UKR,Ukraine,26,UA.ZP,Oblast',Region,,Saporoshje|Zaporizhia|Zaporiz'ka Oblast'|Zaporojie|Zaporozhskaya Oblast'|Zaporozh'ye|Zaporožje,3/25/2022,Zaporizhzhya,1
+26,UKR,Ukraine,27,UA.ZT,Oblast',Region,,Zhitomir|Jitomir|Shitomir|Zhitomirskaya Oblast',3/25/2022,Zhytomyr,2
+0,UKR,Ukraine,1,UA.CK,Oblast',Region,,Cherkas'ka Oblast'|Cherkasskaya Oblast'|Cherkassy,3/30/2022,Cherkasy,0
+1,UKR,Ukraine,2,UA.CH,Oblast',Region,,Chernigov|Tschernigow,3/30/2022,Chernihiv,0
+2,UKR,Ukraine,3,UA.CV,Oblast',Region,,Chernivets'ka Oblast'|Chernovitskaya Oblast'|Chernovtsy|Czernowitz|Tschernowzy|Tchernovtsy,3/30/2022,Chernivtsi,0
+3,UKR,Ukraine,4,UA.KR,Autonomous Republic,Autonomous Republic,,Crimée|Criméia|Krim|Krymskaya Respublika|Respublika Krym,3/30/2022,Crimea,1
+4,UKR,Ukraine,5,UA.DP,Oblast',Region,,Dnipropetrovsk|Dniepropietrovsk|Dnjepropetrowsk,3/30/2022,Dnipropetrovs'k,0
+5,UKR,Ukraine,6,UA.DT,Oblast',Region,,Donetsk|Donetskaya Oblast'|Donezk|Stalino,3/30/2022,Donets'k,1
+6,UKR,Ukraine,7,UA.IF,Oblast',Region,,Ivano-Frankovsk|Ivano-Frankovskaya Oblast'|Stanislav,3/30/2022,Ivano-Frankivs'k,0
+7,UKR,Ukraine,8,UA.KK,Oblast',Region,,Charkow|Jarkov|Karkov|Khar'kov,3/30/2022,Kharkiv,2
+8,UKR,Ukraine,9,UA.KS,Oblast',Region,,Cherson|Khersons'ka Oblast',3/30/2022,Kherson,1
+9,UKR,Ukraine,10,UA.KM,Oblast',Region,,Khmelnitsky|Khmelnytskyi|Chmelnizkij|Hmelnicki|Kamenets-Podol'skaya Oblast'|Khmel'nyts'ka Oblast',3/30/2022,Khmel'nyts'kyy,0
+10,UKR,Ukraine,11,UA.KC,Independent City,Independent City,,Kyiv,3/30/2022,Kiev City,0
+11,UKR,Ukraine,12,UA.KV,Oblast',Region,,Kiev Oblast|Kiew|Kijew|Kiiv|Kijev|Kiyev|Kyiv|Kyjiv|Kyyiv|Kyyivs'ka Oblast',3/30/2022,Kiev,0
+12,UKR,Ukraine,13,UA.KH,Oblast',Region,,Kirovograd|Kirovogradskaya Oblast',3/30/2022,Kirovohrad,0
+13,UKR,Ukraine,14,UA.LV,Oblast',Region,,Lemberg|Llvov|L'vov|Lwow|L'vivs'ka Oblast',3/30/2022,L'viv,0
+14,UKR,Ukraine,15,UA.LH,Oblast',Region,,Luhansk|Lugansk|Luhans'ka Oblast'|Voroshilovgrad,3/30/2022,Luhans'k,1
+15,UKR,Ukraine,16,UA.MY,Oblast',Region,,Mykolaiv|Nikolajew|Nikolayev,3/30/2022,Mykolayiv,1
+16,UKR,Ukraine,17,UA.OD,Oblast',Region,,Odesa|Odes'ka Oblast'|Odesskaya Oblast',3/30/2022,Odessa,0
+17,UKR,Ukraine,18,UA.PL,Oblast',Region,,Poltava,3/30/2022,Poltava,0
+18,UKR,Ukraine,19,UA.RV,Oblast',Region,,Rovno|Rivnens'ka Oblast'|Rovenskaya Oblast',3/30/2022,Rivne,0
+19,UKR,Ukraine,20,UA.SC,Autonomous Republic,Autonomous Republic,,Sebastopol,3/30/2022,Sevastopol',1
+20,UKR,Ukraine,21,UA.SM,Oblast',Region,,Sumy,3/30/2022,Sumy,2
+21,UKR,Ukraine,22,UA.TP,Oblast',Region,,Ternopol|Ternopol',3/30/2022,Ternopil',0
+22,UKR,Ukraine,23,UA.ZK,Oblast',Region,,Transcarpathian|Zakarpattia|Ruthenia|Zakarpats'ka Oblast'|Zakarpatskaya Oblast',3/30/2022,Transcarpathia,0
+23,UKR,Ukraine,24,UA.VI,Oblast',Region,,Vinnytsia|Vinnitskaya Oblast'|Vinnyts'ka Oblast|Winniza,3/30/2022,Vinnytsya,0
+24,UKR,Ukraine,25,UA.VO,Oblast',Region,,Volhynia|Volyns'ka Oblast'|Volynskaya Oblast'|Wolynien,3/30/2022,Volyn,0
+25,UKR,Ukraine,26,UA.ZP,Oblast',Region,,Saporoshje|Zaporizhia|Zaporiz'ka Oblast'|Zaporojie|Zaporozhskaya Oblast'|Zaporozh'ye|Zaporožje,3/30/2022,Zaporizhzhya,1
+26,UKR,Ukraine,27,UA.ZT,Oblast',Region,,Zhitomir|Jitomir|Shitomir|Zhitomirskaya Oblast',3/30/2022,Zhytomyr,0
+0,UKR,Ukraine,1,UA.CK,Oblast',Region,,Cherkas'ka Oblast'|Cherkasskaya Oblast'|Cherkassy,4/4/2022,Cherkasy,0
+1,UKR,Ukraine,2,UA.CH,Oblast',Region,,Chernigov|Tschernigow,4/4/2022,Chernihiv,0
+2,UKR,Ukraine,3,UA.CV,Oblast',Region,,Chernivets'ka Oblast'|Chernovitskaya Oblast'|Chernovtsy|Czernowitz|Tschernowzy|Tchernovtsy,4/4/2022,Chernivtsi,0
+3,UKR,Ukraine,4,UA.KR,Autonomous Republic,Autonomous Republic,,Crimée|Criméia|Krim|Krymskaya Respublika|Respublika Krym,4/4/2022,Crimea,1
+4,UKR,Ukraine,5,UA.DP,Oblast',Region,,Dnipropetrovsk|Dniepropietrovsk|Dnjepropetrowsk,4/4/2022,Dnipropetrovs'k,0
+5,UKR,Ukraine,6,UA.DT,Oblast',Region,,Donetsk|Donetskaya Oblast'|Donezk|Stalino,4/4/2022,Donets'k,1
+6,UKR,Ukraine,7,UA.IF,Oblast',Region,,Ivano-Frankovsk|Ivano-Frankovskaya Oblast'|Stanislav,4/4/2022,Ivano-Frankivs'k,0
+7,UKR,Ukraine,8,UA.KK,Oblast',Region,,Charkow|Jarkov|Karkov|Khar'kov,4/4/2022,Kharkiv,2
+8,UKR,Ukraine,9,UA.KS,Oblast',Region,,Cherson|Khersons'ka Oblast',4/4/2022,Kherson,1
+9,UKR,Ukraine,10,UA.KM,Oblast',Region,,Khmelnitsky|Khmelnytskyi|Chmelnizkij|Hmelnicki|Kamenets-Podol'skaya Oblast'|Khmel'nyts'ka Oblast',4/4/2022,Khmel'nyts'kyy,0
+10,UKR,Ukraine,11,UA.KC,Independent City,Independent City,,Kyiv,4/4/2022,Kiev City,0
+11,UKR,Ukraine,12,UA.KV,Oblast',Region,,Kiev Oblast|Kiew|Kijew|Kiiv|Kijev|Kiyev|Kyiv|Kyjiv|Kyyiv|Kyyivs'ka Oblast',4/4/2022,Kiev,0
+12,UKR,Ukraine,13,UA.KH,Oblast',Region,,Kirovograd|Kirovogradskaya Oblast',4/4/2022,Kirovohrad,0
+13,UKR,Ukraine,14,UA.LV,Oblast',Region,,Lemberg|Llvov|L'vov|Lwow|L'vivs'ka Oblast',4/4/2022,L'viv,0
+14,UKR,Ukraine,15,UA.LH,Oblast',Region,,Luhansk|Lugansk|Luhans'ka Oblast'|Voroshilovgrad,4/4/2022,Luhans'k,1
+15,UKR,Ukraine,16,UA.MY,Oblast',Region,,Mykolaiv|Nikolajew|Nikolayev,4/4/2022,Mykolayiv,2
+16,UKR,Ukraine,17,UA.OD,Oblast',Region,,Odesa|Odes'ka Oblast'|Odesskaya Oblast',4/4/2022,Odessa,0
+17,UKR,Ukraine,18,UA.PL,Oblast',Region,,Poltava,4/4/2022,Poltava,0
+18,UKR,Ukraine,19,UA.RV,Oblast',Region,,Rovno|Rivnens'ka Oblast'|Rovenskaya Oblast',4/4/2022,Rivne,0
+19,UKR,Ukraine,20,UA.SC,Autonomous Republic,Autonomous Republic,,Sebastopol,4/4/2022,Sevastopol',1
+20,UKR,Ukraine,21,UA.SM,Oblast',Region,,Sumy,4/4/2022,Sumy,0
+21,UKR,Ukraine,22,UA.TP,Oblast',Region,,Ternopol|Ternopol',4/4/2022,Ternopil',0
+22,UKR,Ukraine,23,UA.ZK,Oblast',Region,,Transcarpathian|Zakarpattia|Ruthenia|Zakarpats'ka Oblast'|Zakarpatskaya Oblast',4/4/2022,Transcarpathia,0
+23,UKR,Ukraine,24,UA.VI,Oblast',Region,,Vinnytsia|Vinnitskaya Oblast'|Vinnyts'ka Oblast|Winniza,4/4/2022,Vinnytsya,0
+24,UKR,Ukraine,25,UA.VO,Oblast',Region,,Volhynia|Volyns'ka Oblast'|Volynskaya Oblast'|Wolynien,4/4/2022,Volyn,0
+25,UKR,Ukraine,26,UA.ZP,Oblast',Region,,Saporoshje|Zaporizhia|Zaporiz'ka Oblast'|Zaporojie|Zaporozhskaya Oblast'|Zaporozh'ye|Zaporožje,4/4/2022,Zaporizhzhya,1
+26,UKR,Ukraine,27,UA.ZT,Oblast',Region,,Zhitomir|Jitomir|Shitomir|Zhitomirskaya Oblast',4/4/2022,Zhytomyr,0
+0,UKR,Ukraine,1,UA.CK,Oblast',Region,,Cherkas'ka Oblast'|Cherkasskaya Oblast'|Cherkassy,4/9/2022,Cherkasy,0
+1,UKR,Ukraine,2,UA.CH,Oblast',Region,,Chernigov|Tschernigow,4/9/2022,Chernihiv,0
+2,UKR,Ukraine,3,UA.CV,Oblast',Region,,Chernivets'ka Oblast'|Chernovitskaya Oblast'|Chernovtsy|Czernowitz|Tschernowzy|Tchernovtsy,4/9/2022,Chernivtsi,0
+3,UKR,Ukraine,4,UA.KR,Autonomous Republic,Autonomous Republic,,Crimée|Criméia|Krim|Krymskaya Respublika|Respublika Krym,4/9/2022,Crimea,1
+4,UKR,Ukraine,5,UA.DP,Oblast',Region,,Dnipropetrovsk|Dniepropietrovsk|Dnjepropetrowsk,4/9/2022,Dnipropetrovs'k,0
+5,UKR,Ukraine,6,UA.DT,Oblast',Region,,Donetsk|Donetskaya Oblast'|Donezk|Stalino,4/9/2022,Donets'k,1
+6,UKR,Ukraine,7,UA.IF,Oblast',Region,,Ivano-Frankovsk|Ivano-Frankovskaya Oblast'|Stanislav,4/9/2022,Ivano-Frankivs'k,0
+7,UKR,Ukraine,8,UA.KK,Oblast',Region,,Charkow|Jarkov|Karkov|Khar'kov,4/9/2022,Kharkiv,0
+8,UKR,Ukraine,9,UA.KS,Oblast',Region,,Cherson|Khersons'ka Oblast',4/9/2022,Kherson,1
+9,UKR,Ukraine,10,UA.KM,Oblast',Region,,Khmelnitsky|Khmelnytskyi|Chmelnizkij|Hmelnicki|Kamenets-Podol'skaya Oblast'|Khmel'nyts'ka Oblast',4/9/2022,Khmel'nyts'kyy,0
+10,UKR,Ukraine,11,UA.KC,Independent City,Independent City,,Kyiv,4/9/2022,Kiev City,0
+11,UKR,Ukraine,12,UA.KV,Oblast',Region,,Kiev Oblast|Kiew|Kijew|Kiiv|Kijev|Kiyev|Kyiv|Kyjiv|Kyyiv|Kyyivs'ka Oblast',4/9/2022,Kiev,0
+12,UKR,Ukraine,13,UA.KH,Oblast',Region,,Kirovograd|Kirovogradskaya Oblast',4/9/2022,Kirovohrad,0
+13,UKR,Ukraine,14,UA.LV,Oblast',Region,,Lemberg|Llvov|L'vov|Lwow|L'vivs'ka Oblast',4/9/2022,L'viv,0
+14,UKR,Ukraine,15,UA.LH,Oblast',Region,,Luhansk|Lugansk|Luhans'ka Oblast'|Voroshilovgrad,4/9/2022,Luhans'k,1
+15,UKR,Ukraine,16,UA.MY,Oblast',Region,,Mykolaiv|Nikolajew|Nikolayev,4/9/2022,Mykolayiv,0
+16,UKR,Ukraine,17,UA.OD,Oblast',Region,,Odesa|Odes'ka Oblast'|Odesskaya Oblast',4/9/2022,Odessa,0
+17,UKR,Ukraine,18,UA.PL,Oblast',Region,,Poltava,4/9/2022,Poltava,0
+18,UKR,Ukraine,19,UA.RV,Oblast',Region,,Rovno|Rivnens'ka Oblast'|Rovenskaya Oblast',4/9/2022,Rivne,0
+19,UKR,Ukraine,20,UA.SC,Autonomous Republic,Autonomous Republic,,Sebastopol,4/9/2022,Sevastopol',1
+20,UKR,Ukraine,21,UA.SM,Oblast',Region,,Sumy,4/9/2022,Sumy,0
+21,UKR,Ukraine,22,UA.TP,Oblast',Region,,Ternopol|Ternopol',4/9/2022,Ternopil',0
+22,UKR,Ukraine,23,UA.ZK,Oblast',Region,,Transcarpathian|Zakarpattia|Ruthenia|Zakarpats'ka Oblast'|Zakarpatskaya Oblast',4/9/2022,Transcarpathia,0
+23,UKR,Ukraine,24,UA.VI,Oblast',Region,,Vinnytsia|Vinnitskaya Oblast'|Vinnyts'ka Oblast|Winniza,4/9/2022,Vinnytsya,0
+24,UKR,Ukraine,25,UA.VO,Oblast',Region,,Volhynia|Volyns'ka Oblast'|Volynskaya Oblast'|Wolynien,4/9/2022,Volyn,0
+25,UKR,Ukraine,26,UA.ZP,Oblast',Region,,Saporoshje|Zaporizhia|Zaporiz'ka Oblast'|Zaporojie|Zaporozhskaya Oblast'|Zaporozh'ye|Zaporožje,4/9/2022,Zaporizhzhya,1
+26,UKR,Ukraine,27,UA.ZT,Oblast',Region,,Zhitomir|Jitomir|Shitomir|Zhitomirskaya Oblast',4/9/2022,Zhytomyr,0
+0,UKR,Ukraine,1,UA.CK,Oblast',Region,,Cherkas'ka Oblast'|Cherkasskaya Oblast'|Cherkassy,4/14/2022,Cherkasy,0
+1,UKR,Ukraine,2,UA.CH,Oblast',Region,,Chernigov|Tschernigow,4/14/2022,Chernihiv,0
+2,UKR,Ukraine,3,UA.CV,Oblast',Region,,Chernivets'ka Oblast'|Chernovitskaya Oblast'|Chernovtsy|Czernowitz|Tschernowzy|Tchernovtsy,4/14/2022,Chernivtsi,0
+3,UKR,Ukraine,4,UA.KR,Autonomous Republic,Autonomous Republic,,Crimée|Criméia|Krim|Krymskaya Respublika|Respublika Krym,4/14/2022,Crimea,1
+4,UKR,Ukraine,5,UA.DP,Oblast',Region,,Dnipropetrovsk|Dniepropietrovsk|Dnjepropetrowsk,4/14/2022,Dnipropetrovs'k,0
+5,UKR,Ukraine,6,UA.DT,Oblast',Region,,Donetsk|Donetskaya Oblast'|Donezk|Stalino,4/14/2022,Donets'k,1
+6,UKR,Ukraine,7,UA.IF,Oblast',Region,,Ivano-Frankovsk|Ivano-Frankovskaya Oblast'|Stanislav,4/14/2022,Ivano-Frankivs'k,0
+7,UKR,Ukraine,8,UA.KK,Oblast',Region,,Charkow|Jarkov|Karkov|Khar'kov,4/14/2022,Kharkiv,1
+8,UKR,Ukraine,9,UA.KS,Oblast',Region,,Cherson|Khersons'ka Oblast',4/14/2022,Kherson,1
+9,UKR,Ukraine,10,UA.KM,Oblast',Region,,Khmelnitsky|Khmelnytskyi|Chmelnizkij|Hmelnicki|Kamenets-Podol'skaya Oblast'|Khmel'nyts'ka Oblast',4/14/2022,Khmel'nyts'kyy,0
+10,UKR,Ukraine,11,UA.KC,Independent City,Independent City,,Kyiv,4/14/2022,Kiev City,0
+11,UKR,Ukraine,12,UA.KV,Oblast',Region,,Kiev Oblast|Kiew|Kijew|Kiiv|Kijev|Kiyev|Kyiv|Kyjiv|Kyyiv|Kyyivs'ka Oblast',4/14/2022,Kiev,0
+12,UKR,Ukraine,13,UA.KH,Oblast',Region,,Kirovograd|Kirovogradskaya Oblast',4/14/2022,Kirovohrad,0
+13,UKR,Ukraine,14,UA.LV,Oblast',Region,,Lemberg|Llvov|L'vov|Lwow|L'vivs'ka Oblast',4/14/2022,L'viv,0
+14,UKR,Ukraine,15,UA.LH,Oblast',Region,,Luhansk|Lugansk|Luhans'ka Oblast'|Voroshilovgrad,4/14/2022,Luhans'k,1
+15,UKR,Ukraine,16,UA.MY,Oblast',Region,,Mykolaiv|Nikolajew|Nikolayev,4/14/2022,Mykolayiv,0
+16,UKR,Ukraine,17,UA.OD,Oblast',Region,,Odesa|Odes'ka Oblast'|Odesskaya Oblast',4/14/2022,Odessa,0
+17,UKR,Ukraine,18,UA.PL,Oblast',Region,,Poltava,4/14/2022,Poltava,0
+18,UKR,Ukraine,19,UA.RV,Oblast',Region,,Rovno|Rivnens'ka Oblast'|Rovenskaya Oblast',4/14/2022,Rivne,0
+19,UKR,Ukraine,20,UA.SC,Autonomous Republic,Autonomous Republic,,Sebastopol,4/14/2022,Sevastopol',1
+20,UKR,Ukraine,21,UA.SM,Oblast',Region,,Sumy,4/14/2022,Sumy,0
+21,UKR,Ukraine,22,UA.TP,Oblast',Region,,Ternopol|Ternopol',4/14/2022,Ternopil',0
+22,UKR,Ukraine,23,UA.ZK,Oblast',Region,,Transcarpathian|Zakarpattia|Ruthenia|Zakarpats'ka Oblast'|Zakarpatskaya Oblast',4/14/2022,Transcarpathia,0
+23,UKR,Ukraine,24,UA.VI,Oblast',Region,,Vinnytsia|Vinnitskaya Oblast'|Vinnyts'ka Oblast|Winniza,4/14/2022,Vinnytsya,0
+24,UKR,Ukraine,25,UA.VO,Oblast',Region,,Volhynia|Volyns'ka Oblast'|Volynskaya Oblast'|Wolynien,4/14/2022,Volyn,0
+25,UKR,Ukraine,26,UA.ZP,Oblast',Region,,Saporoshje|Zaporizhia|Zaporiz'ka Oblast'|Zaporojie|Zaporozhskaya Oblast'|Zaporozh'ye|Zaporožje,4/14/2022,Zaporizhzhya,1
+26,UKR,Ukraine,27,UA.ZT,Oblast',Region,,Zhitomir|Jitomir|Shitomir|Zhitomirskaya Oblast',4/14/2022,Zhytomyr,0
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
