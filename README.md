@@ -1,6 +1,6 @@
 # Ukraine-Invasion-DashBoard 
 
-> This graph visalizes the war in Ukraine during the first two months with as accurate info gathered as posible from the media.
+> This graph visualizes the war in Ukraine during the first two months with as accurate info gathered as posible from the media.
 
 https://user-images.githubusercontent.com/58150666/168504432-bd5184d9-dc4f-4ee4-b94b-360094a09859.mp4
 
