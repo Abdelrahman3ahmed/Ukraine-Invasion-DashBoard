@@ -19,16 +19,16 @@ https://user-images.githubusercontent.com/58150666/168504598-c2c1aba3-23a0-4175-
 
 ### Usefull resources
 
-[Converting geojson to python object](https://gis.stackexchange.com/questions/73768/converting-geojson-to-python-objects)
+###### [Converting geojson to python object](https://gis.stackexchange.com/questions/73768/converting-geojson-to-python-objects)
 
-[Plotly: How to set choropleth map color for a discrete categorical variable?](https://stackoverflow.com/questions/63635104/plotly-how-to-set-choropleth-map-color-for-a-discrete-categorical-variable)
+###### [Plotly: How to set choropleth map color for a discrete categorical variable?](https://stackoverflow.com/questions/63635104/plotly-how-to-set-choropleth-map-color-for-a-discrete-categorical-variable)
 
-[Mapbox Choropleth Maps in Python](https://plotly.com/python/mapbox-county-choropleth/)
+###### [Mapbox Choropleth Maps in Python](https://plotly.com/python/mapbox-county-choropleth/)
 
-[Data Source](https://geodata.lib.utexas.edu/catalog/stanford-gg870xt4706)
+###### [Data Source](https://geodata.lib.utexas.edu/catalog/stanford-gg870xt4706)
 
-[How can I combine Choropleth and Scatter layer with animation frame in a plotly map](https://community.plotly.com/t/how-can-i-combine-choropleth-and-scatter-layer-with-animation-frame-in-a-plotly-map/41330)
+###### [How can I combine Choropleth and Scatter layer with animation frame in a plotly map](https://community.plotly.com/t/how-can-i-combine-choropleth-and-scatter-layer-with-animation-frame-in-a-plotly-map/41330)
 
-[Add image to hover](https://dash.plotly.com/dash-core-components/tooltip)
+###### [Add image to hover](https://dash.plotly.com/dash-core-components/tooltip)
 
-[Good Visual](https://tipsyredfox.com/news/2022/02/28/russia-ukraine-war-by-the-numbers-live-tracker/)
+###### [Good Visual](https://tipsyredfox.com/news/2022/02/28/russia-ukraine-war-by-the-numbers-live-tracker/)
